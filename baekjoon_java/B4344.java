@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 //한 줄씩 평균을 넘는 학생들의 비율을 반올림하여 소수점 셋째 자리까지 출력
 import java.util.*;
 public class B4344 {

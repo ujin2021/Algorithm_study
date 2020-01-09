@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 //최소 갯수를 구하기위해선 일단 5로 먼저 나누고 시작해야한다. 5로 나눴을때 나머지가 5가지이므로 나머지로 상황을 나눠서 생각해본다
 public class Sugar {

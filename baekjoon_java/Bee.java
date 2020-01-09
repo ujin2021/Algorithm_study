@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 public class Bee {
 	public static void main(String[] args) {

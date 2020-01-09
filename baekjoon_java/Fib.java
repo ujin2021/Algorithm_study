@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 public class Fib {
 	static int fib(int num) {

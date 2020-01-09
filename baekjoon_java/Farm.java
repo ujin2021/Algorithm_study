@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 public class Farm {
 	public static void main(String[] args) {

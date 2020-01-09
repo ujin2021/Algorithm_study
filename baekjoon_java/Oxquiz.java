@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 //"OOXXOXXOOO"의 점수는 1+2+0+0+1+0+0+1+2+3 = 10점
 //1차원 배열사용

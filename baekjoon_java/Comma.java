@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_java;
 import java.util.*;
 public class Comma {
 	public static void main(String[] args) {
